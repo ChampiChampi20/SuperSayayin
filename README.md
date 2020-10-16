@@ -1,2 +1,2 @@
 # SuperSayayin
-Este juego es una lucha con Cell en la montaña de MACHUPICCHU, por lo cual atrévete a ganarle. 
+Este juego es una lucha a Muerte con Cell en las montañas de MACHUPICCHU, por lo cual atrévete a ganarle. 
